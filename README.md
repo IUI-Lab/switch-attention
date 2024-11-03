@@ -29,5 +29,8 @@ series = {ICMI '24}
 }
 ```
 
+## License
+This project is under the MIT license. See [LICENSE](LICENSE) for details.
+
 ## Acknowledgements
 The code is based on [dondongwon/Multipar-T](https://github.com/dondongwon/Multipar-T).
