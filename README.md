@@ -5,7 +5,7 @@
 </div>
 
 This repository contains the official PyTorch implementation for the paper 
-[Participation Role-Driven Engagement Estimation of ASD Individuals in Neurodiverse Group Discussions](https://) (ICMI 2024).
+[Participation Role-Driven Engagement Estimation of ASD Individuals in Neurodiverse Group Discussions](https://dl.acm.org/doi/10.1145/3678957.3685721) (ICMI 2024).
 
 ## References
 If this work is useful for your research, please consider citing it.
